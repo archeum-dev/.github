@@ -1,6 +1,7 @@
 <img width="1460" height="212" alt="b-archeum" src="https://github.com/user-attachments/assets/fad50c6b-3761-4d15-b3b9-f6ae8bc58593" />
 
-## Archeum
+_________________________________________________________________________________________
+
 A decentralized cloud focused on speed, personal data ownership, and economic efficiency.
 
 ### How it works
