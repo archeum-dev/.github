@@ -4,7 +4,6 @@
 
 A decentralized cloud focused on speed, personal data ownership, and economic efficiency.
 
-
 ### How it works
 
 - **Cloud Storage**: Users own nodes hosting personal data per-app
@@ -24,7 +23,9 @@ If you are:
 - An app developer, check out the [Archeum SDK](https://github.com/archeum-dev/archeum-sdk)
 - A contributor, dive into the [Archeum Node](https://github.com/archeum-dev/archeum-node), [Library](https://github.com/archeum-dev/archeum-lib), or [SDK](https://github.com/archeum-dev/archeum-sdk)
 
-[![Email](https://img.shields.io/badge/Email-contact%40archeum.io-0078D4?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@archeum.io)
-[![Discord](https://img.shields.io/badge/Discord-Archeum-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/cdyPcAzbhH)
-[![Reddit](https://img.shields.io/badge/Reddit-Archeum-FF5700?style=flat-square&logo=reddit&logoColor=white)](https://www.reddit.com/r/archeum/)
-[![Website](https://img.shields.io/badge/Website-archeum.io-171717?style=flat-square&logo=firefox&logoColor=white)](https://archeum.io)
+---
+
+[![Discord Badge](https://img.shields.io/badge/-Join%20on%20Discord-5865F2?style=flat&logo=discord&logoColor=white&link=https://discord.gg/archeum)](https://discord.gg/archeum)
+[![Reddit Badge](https://img.shields.io/badge/-r%2FArcheum-FF4500?style=flat&logo=reddit&logoColor=white&link=https://www.reddit.com/r/Archeum/)](https://www.reddit.com/r/Archeum/)
+[![Website Badge](https://img.shields.io/badge/-archeum.io-1A1A1A?style=flat&logo=firefox&logoColor=white&link=https://archeum.io)](https://archeum.io)
+[![Email Badge](https://img.shields.io/badge/-contact@archeum.io-B23121?style=flat&logo=Gmail&logoColor=white&link=mailto:contact@archeum.io)](mailto:contact@archeum.io)
