@@ -25,7 +25,7 @@ If you are:
 
 ---
 
-[![Discord Badge](https://img.shields.io/badge/-Join%20on%20Discord-5865F2?style=flat&logo=discord&logoColor=white&link=https://discord.gg/archeum)](https://discord.gg/archeum)
+[![Discord Badge](https://img.shields.io/badge/-Join%20on%20Discord-5865F2?style=flat&logo=discord&logoColor=white&link=https://discord.gg/cdyPcAzbhH)](https://discord.gg/cdyPcAzbhH)
 [![Reddit Badge](https://img.shields.io/badge/-r%2FArcheum-FF4500?style=flat&logo=reddit&logoColor=white&link=https://www.reddit.com/r/Archeum/)](https://www.reddit.com/r/Archeum/)
 [![Website Badge](https://img.shields.io/badge/-archeum.io-1A1A1A?style=flat&logo=firefox&logoColor=white&link=https://archeum.io)](https://archeum.io)
 [![Email Badge](https://img.shields.io/badge/-contact@archeum.io-B23121?style=flat&logo=Gmail&logoColor=white&link=mailto:contact@archeum.io)](mailto:contact@archeum.io)
