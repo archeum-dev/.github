@@ -1,4 +1,5 @@
-<img width="1460" height="212" alt="b-archeum" src="https://github.com/user-attachments/assets/fad50c6b-3761-4d15-b3b9-f6ae8bc58593" />
+
+<img width="1460" height="212" alt="b-archeum-r" src="https://github.com/user-attachments/assets/405d9d99-1a10-461d-b6f9-cd52b5073b1b" />
 
 ---
 
