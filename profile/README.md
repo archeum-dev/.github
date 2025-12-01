@@ -22,8 +22,8 @@ These three layers are the core of Archeum, and should allow any kind of applica
 
 If you are:
 - A user, install the [Archeum App](https://github.com/archeum-dev/archeum-app)
-- An app developer, check out the [Archeum SDK](https://github.com/archeum-dev/archeum-sdk)
-- A contributor, dive into the [Archeum Node](https://github.com/archeum-dev/archeum-node), [Library](https://github.com/archeum-dev/archeum-lib), or [SDK](https://github.com/archeum-dev/archeum-sdk)
+- An app developer, check out the [Examples](https://github.com/archeum-dev/examples)
+- A contributor, dive into the [Archeum Node](https://github.com/archeum-dev/node), [Library](https://github.com/archeum-dev/lib), or [SDK](https://github.com/archeum-dev/sdk)
 
 ---
 
