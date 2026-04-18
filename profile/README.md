@@ -8,22 +8,22 @@ A decentralized cloud focused on speed, personal data ownership, and economic ef
 
 ### How it works
 
-- **Cloud Storage**: Users own nodes hosting personal data per-app
-- **Edge Compute**: Apps store, get, and process data from the network
-- **Reactors**: On-node reactions skip the edge, allowing real-time systems
+- **Nodes**: Users own nodes hosting per-identity, per-app data
+- **Apps**: Apps store, get, and process data from the network
+- **Reactors (On-Node)**: On-node reactions skip the edge, allowing real-time systems
 
 These three layers are the core of Archeum, and should allow any kind of application to be built on top of it.
 
 ### Costs
 
-- Archeum is and will always remain free for developers.
-- Users register 1 handle for free, and then pay a fee on subsequent handles to support more free users.
-- Users host their own node (hardware + electricity costs) or defer to a managed operator.
+- Base L2 gas costs are required for handle registrations (users) and namespace registrations (developers).
+- Gas costs are sponsored for users through a paymaster, making it effectively free for users in the short term.
+- Apart from transactions with the Base contract, Archeum is and will always remain free for users and developers.
+- Users host their own node (hardware + electricity costs) or defer to a managed operator or friend.
 
 If you are:
-- A user, install the [Archeum App](https://github.com/archeum-dev/archeum-app)
-- An app developer, check out the [Examples](https://github.com/archeum-dev/examples)
-- A contributor, dive into the [Archeum Node](https://github.com/archeum-dev/node), [Library](https://github.com/archeum-dev/lib), or [SDK](https://github.com/archeum-dev/sdk)
+- An app developer, check out the [Flutter SDK](https://github.com/archeum-dev/flutter-sdk) and the first app to use it, [social](https://github.com/archeum-dev/social).
+- A contributor, dive into the [Archeum Node](https://github.com/archeum-dev/node), [Library](https://github.com/archeum-dev/lib), or [Rust SDK](https://github.com/archeum-dev/sdk)
 
 ---
 
