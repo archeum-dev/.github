@@ -23,8 +23,8 @@ These layers are the core of Archeum, and should allow any kind of application t
 - Users host their own node (hardware + electricity costs) or defer to a managed operator or friend.
 
 If you are:
-- An app developer, check out the [Flutter SDK](https://github.com/archeum-dev/flutter-sdk) and the first app to use it, [social](https://github.com/archeum-dev/social).
-- A contributor, dive into the [Archeum Node](https://github.com/archeum-dev/node), [Library](https://github.com/archeum-dev/lib), or [Rust SDK](https://github.com/archeum-dev/sdk)
+- An app developer: Check out the [Flutter SDK](https://github.com/archeum-dev/flutter-sdk) and the first app to use it, [social](https://github.com/archeum-dev/social).
+- A contributor: Dive into the [Archeum Node](https://github.com/archeum-dev/node), [Library](https://github.com/archeum-dev/lib), or [Rust SDK](https://github.com/archeum-dev/sdk)
 
 ---
 
