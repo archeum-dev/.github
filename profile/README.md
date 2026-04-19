@@ -13,7 +13,7 @@ A decentralized cloud focused on speed, personal data ownership, and economic ef
 - **Apps**: Devs create Archeum apps that put, get, and process data from the network
 - **Reactors**: On-node reactions skip the edge, allowing real-time systems
 
-These three layers are the core of Archeum, and should allow any kind of application to be built on top of it.
+These layers are the core of Archeum, and should allow any kind of application to be powered by it.
 
 ### Costs
 
