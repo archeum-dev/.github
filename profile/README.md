@@ -8,9 +8,10 @@ A decentralized cloud focused on speed, personal data ownership, and economic ef
 
 ### How it works
 
-- **Nodes**: Users own nodes hosting per-identity, per-app data
-- **Apps**: Apps store, get, and process data from the network
-- **Reactors (On-Node)**: On-node reactions skip the edge, allowing real-time systems
+- **The Registry**: A registry lives on Base L2 to map identities to their nodes.
+- **Nodes**: Users own nodes that store per-identity, per-app data
+- **Apps**: Devs create Archeum apps that put, get, and process data from the network
+- **Reactors**: On-node reactions skip the edge, allowing real-time systems
 
 These three layers are the core of Archeum, and should allow any kind of application to be built on top of it.
 
