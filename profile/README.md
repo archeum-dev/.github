@@ -1,12 +1,8 @@
 
-<img width="1460" height="212" alt="b-archeum" src="https://github.com/user-attachments/assets/a2379d1e-57d8-4017-9e4c-d35d5b15f49d" />
+<img width="100%" alt="banner(1)" src="https://github.com/user-attachments/assets/a37b81ab-f580-42e7-8b8e-e03eb7907fef" />
 
 
----
-
-A new era for the internet.
-
-### The Parts of Archeum
+### A new era for the internet
 
 - **The Core**: Your phone holds your data within the Archeum App (on the internal node).
 - **The Apps**: Apps work with the Archeum App to locally use, process, and store your data.
