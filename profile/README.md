@@ -7,7 +7,7 @@
 - **The Core**: Your phone holds your data within the Archeum App (on the internal node).
 - **The Apps**: Apps work with the Archeum App to locally use, process, and store your data.
 - **The People**: People request data directly from eachother. Data is owner-view-only by default.
-- **The World**: Phones work together to agree on global information.
+- **The World**: All phones work together to agree on global information.
 - **The Effect**: Free to use, free to build on, and free to run on at any scale. Apps and games never die.
 
 If you are:
