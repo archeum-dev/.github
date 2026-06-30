@@ -4,31 +4,24 @@
 
 ---
 
-A decentralized cloud focused on speed, personal data ownership, and economic efficiency.
+A new era for the internet.
 
-### How it works
+### The Parts of Archeum
 
-- **The Registry**: A registry lives on Base L2 to map identities to their nodes.
-- **Nodes**: Users own nodes that store per-identity, per-app data
-- **Apps**: Devs create Archeum apps that put, get, and process data from the network
-- **Reactors**: On-node reactions skip the edge, allowing real-time systems
-
-These layers are the core of Archeum, and should allow any kind of application to be powered by it.
-
-### Costs
-
-- Base L2 gas costs are required for handle registrations (users) and namespace registrations (developers).
-- Gas costs are sponsored for users through a paymaster, making it effectively free for users in the short term.
-- Apart from transactions with the Base contract, Archeum is and will always remain free for users and developers.
-- Users host their own node (hardware + electricity costs) or defer to a managed operator or friend.
+- **The Core**: Your phone holds your data within the Archeum App (on the internal node).
+- **The Apps**: Apps work with the Archeum App to locally use, process, and store your data.
+- **The People**: People request data directly from eachother. Data is owner-view-only by default.
+- **The World**: Phones work together to agree on global information.
+- **The Effect**: Free to use, free to build on, and free to run on at any scale. Apps and games never die.
 
 If you are:
-- An app developer: Check out the [Flutter SDK](https://github.com/archeum-dev/flutter-sdk) and the first app to use it, [social](https://github.com/archeum-dev/social).
-- A contributor: Dive into the [Archeum Node](https://github.com/archeum-dev/node), [Library](https://github.com/archeum-dev/lib), or [Rust SDK](https://github.com/archeum-dev/sdk)
+- **An app developer**: Start with the [docs](https://archeum.dev), then check out the [Flutter SDK](https://github.com/archeum-dev/flutter-sdk) and the first app, [social](https://github.com/archeum-dev/social).
+- **A contributor**: Dive into the [Node](https://github.com/archeum-dev/node), [Library](https://github.com/archeum-dev/lib), [Rust SDK](https://github.com/archeum-dev/sdk), or [Architect](https://github.com/archeum-dev/architect).
 
 ---
 
-[![Discord Badge](https://img.shields.io/badge/-Join%20on%20Discord-5865F2?style=flat&logo=discord&logoColor=white&link=https://discord.gg/cdyPcAzbhH)](https://discord.gg/cdyPcAzbhH)
-[![Reddit Badge](https://img.shields.io/badge/-r%2FArcheum-FF4500?style=flat&logo=reddit&logoColor=white&link=https://www.reddit.com/r/Archeum/)](https://www.reddit.com/r/Archeum/)
-[![Website Badge](https://img.shields.io/badge/-archeum.io-1A1A1A?style=flat&logo=firefox&logoColor=white&link=https://archeum.io)](https://archeum.io)
-[![Email Badge](https://img.shields.io/badge/-contact@archeum.io-B23121?style=flat&logo=Gmail&logoColor=white&link=mailto:contact@archeum.io)](mailto:contact@archeum.io)
+[![Website Badge](https://img.shields.io/badge/-archeum.io-1a1a1a?style=flat&logo=firefox&logoColor=white&link=https://archeum.io)](https://archeum.io)
+[![Docs Badge](https://img.shields.io/badge/-archeum.dev-7a4d0a?style=flat&logo=readthedocs&logoColor=white&link=https://archeum.dev)](https://archeum.dev)
+[![Discord Badge](https://img.shields.io/badge/-Join%20on%20Discord-b47a1a?style=flat&logo=discord&logoColor=white&link=https://discord.gg/cdyPcAzbhH)](https://discord.gg/cdyPcAzbhH)
+[![Reddit Badge](https://img.shields.io/badge/-r%2FArcheum-d4af37?style=flat&logo=reddit&logoColor=white&link=https://www.reddit.com/r/Archeum/)](https://www.reddit.com/r/Archeum/)
+[![Email Badge](https://img.shields.io/badge/-contact@archeum.io-dfbf4f?style=flat&logo=Gmail&logoColor=white&link=mailto:contact@archeum.io)](mailto:contact@archeum.io)
