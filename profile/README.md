@@ -18,6 +18,6 @@ If you are:
 
 [![Website Badge](https://img.shields.io/badge/-archeum.io-1a1a1a?style=flat&logo=firefox&logoColor=white&link=https://archeum.io)](https://archeum.io)
 [![Docs Badge](https://img.shields.io/badge/-archeum.dev-7a4d0a?style=flat&logo=readthedocs&logoColor=white&link=https://archeum.dev)](https://archeum.dev)
-[![Discord Badge](https://img.shields.io/badge/-Join%20on%20Discord-b47a1a?style=flat&logo=discord&logoColor=white&link=https://discord.gg/cdyPcAzbhH)](https://discord.gg/cdyPcAzbhH)
+[![Discord Badge](https://img.shields.io/badge/-Join%20the%20Discord-b47a1a?style=flat&logo=discord&logoColor=white&link=https://discord.gg/cdyPcAzbhH)](https://discord.gg/cdyPcAzbhH)
 [![Reddit Badge](https://img.shields.io/badge/-r%2FArcheum-d4af37?style=flat&logo=reddit&logoColor=white&link=https://www.reddit.com/r/Archeum/)](https://www.reddit.com/r/Archeum/)
 [![Email Badge](https://img.shields.io/badge/-contact@archeum.io-dfbf4f?style=flat&logo=Gmail&logoColor=white&link=mailto:contact@archeum.io)](mailto:contact@archeum.io)
