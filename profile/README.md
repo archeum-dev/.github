@@ -8,7 +8,7 @@
 - **The Apps**: Apps work with the Archeum App to locally use, process, and store your data.
 - **The People**: People request data directly from eachother. Data is owner-view-only by default.
 - **The World**: All phones work together to agree on global information.
-- **The Effect**: Free to use, free to build on, and free to run on at any scale. Apps and games never die.
+- **The Effect**: Free to use, free to build on, free to run on at any scale. Apps and games never die.
 
 If you are:
 - **An app developer**: Start with the [docs](https://archeum.dev), then check out the [Flutter SDK](https://github.com/archeum-dev/flutter-sdk) and the first app, [social](https://github.com/archeum-dev/social).
