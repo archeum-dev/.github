@@ -14,7 +14,6 @@ If you are:
 - **An app developer**: Start with the [docs](https://archeum.dev), then check out the [Flutter SDK](https://github.com/archeum-dev/flutter-sdk) and the first app, [social](https://github.com/archeum-dev/social).
 - **A contributor**: Dive into the [Node](https://github.com/archeum-dev/node), [Library](https://github.com/archeum-dev/lib), [Rust SDK](https://github.com/archeum-dev/sdk), or [Architect](https://github.com/archeum-dev/architect).
 
----
 
 [![Website Badge](https://img.shields.io/badge/-archeum.io-1a1a1a?style=flat&logo=firefox&logoColor=white&link=https://archeum.io)](https://archeum.io)
 [![Docs Badge](https://img.shields.io/badge/-archeum.dev-7a4d0a?style=flat&logo=readthedocs&logoColor=white&link=https://archeum.dev)](https://archeum.dev)
